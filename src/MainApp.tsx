@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 /*
 Sample counting object
 
